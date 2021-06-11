@@ -1,0 +1,6 @@
+c:\users\michal.michna\documents\visual studio 2017\Projects\CS009TabulkaNasobeni\bin\Debug\CS009TabulkaNasobeni.exe.config
+c:\users\michal.michna\documents\visual studio 2017\Projects\CS009TabulkaNasobeni\bin\Debug\CS009TabulkaNasobeni.exe
+c:\users\michal.michna\documents\visual studio 2017\Projects\CS009TabulkaNasobeni\bin\Debug\CS009TabulkaNasobeni.pdb
+c:\users\michal.michna\documents\visual studio 2017\Projects\CS009TabulkaNasobeni\obj\Debug\CS009TabulkaNasobeni.csprojResolveAssemblyReference.cache
+c:\users\michal.michna\documents\visual studio 2017\Projects\CS009TabulkaNasobeni\obj\Debug\CS009TabulkaNasobeni.exe
+c:\users\michal.michna\documents\visual studio 2017\Projects\CS009TabulkaNasobeni\obj\Debug\CS009TabulkaNasobeni.pdb
